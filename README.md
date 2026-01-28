@@ -3,6 +3,7 @@
 
 This repository contains the implementation for DSCI-560 Lab 1, which focuses on setting up a Linux-based Python environment and performing basic web scraping and data processing tasks.
 The project demonstrates foundational skills in Linux, Python scripting, dynamic web data collection, HTML parsing, and CSV-based data storage using a real-world news website.
+
 The selected data source is the CNBC World News webpage. The project collects raw web data, extracts structured information from the market banner and latest news section, and stores the processed results in CSV files for further analysis.
 Scripts Overview
 Web Data Collection (web_scraper.py)
